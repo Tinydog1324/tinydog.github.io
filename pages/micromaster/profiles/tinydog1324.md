@@ -4,7 +4,7 @@ Mission Viejo, CA || Front-End Developer || PST Zone
 Windows 10 desktop || MacOS Catalina 10.15.7
 ---
 
-Portfolio link: [Tim Benedix Portfolio](https://tim-b-porfolio.netlify.app)
+###Portfolio link: [Tim Benedix Portfolio](https://tim-b-porfolio.netlify.app)
 
 
 About Me
