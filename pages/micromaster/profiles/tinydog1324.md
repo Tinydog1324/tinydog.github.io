@@ -1,4 +1,5 @@
 Tim Benedix
+---
 Mission Viejo, CA || Front-End Developer || PST Zone
 Windows 10 desktop || MacOS Catalina 10.15.7
 ---
