@@ -7,11 +7,11 @@
 ##### Portfolio link: [Tim Benedix Portfolio](https://tim-b-porfolio.netlify.app)
 
 ### About Me
-Hello my name is Tim Benedix. I am a freelance Web Developer. I am a self taught  Web Developer. I have always been intrguied by how the internet and websites,apps etc work. How they are created , how they respond and get from point a to point b. So Ive taken courses and classes learning and writing code creating projects and applications for the past 2+ years. IT would be a dream to work with Open Learning Exchange. To work on real world projects that have a positive impact. To gain that knowldge and expereience. Work along side other developers. 
+Hello my name is Tim Benedix. I am a freelance Web Developer. I am a self taught  Web Developer. I have always been intrigued by how the internet and websites,apps etc work. How they are created , how they respond and get from point a to point b. So Ive taken courses and classes learning and writing code creating projects and applications for the past 2+ years. It would be a dream to work with Open Learning Exchange. To work on real world projects that have a positive impact. To gain that knowldge and work expereience. Work along side other developers. 
 
 ---
 ### My Works/Projects
-Here are is a list of some projects Ive done to show my skill set and coding ability/knowledge:
+Here are is a list of some projects Ive done to show my skill set and coding abilities/knowledge:
 
 [Airbnb clone site](https://airbnb-clone-td.netlify.app) : Made with React.js as front end/Node.js backend/Firebase as data storage. Deployed off netify.
 
@@ -42,10 +42,10 @@ Here are is a list of some projects Ive done to show my skill set and coding abi
 
 Email: benedixtim@yahoo.com
 
-phone number: 949-981-9637
+Phone Number: 949-981-9637
 
 [LinkedIn](https://www.linkedin.com/in/tim-benedix-751a5681/)
 
 ---
 
-Look forward from hearing and working with you all. Stay safe!
+Looking forward to from hearing and working with you all. Stay safe!
