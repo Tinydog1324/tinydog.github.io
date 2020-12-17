@@ -40,7 +40,7 @@ Here are is a list of some projects Ive done to show my skill set and coding abi
 ---
 ### Contact
 
-Email: benedixtim@yahoo.comv
+Email: benedixtim@yahoo.com
 
 phone number: 949-981-9637
 
