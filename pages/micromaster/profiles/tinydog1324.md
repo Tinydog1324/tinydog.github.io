@@ -5,6 +5,8 @@ Windows 10 desktop || MacOS Catalina 10.15.7
 ---
 
 Portfolio link: [Tim Benedix Portfolio](https://tim-b-porfolio.netlify.app)
+
+
 About Me
 Hello my name is Tim Benedix. I am a freelance Web Developer. I am a self taught  Web Developer. I have always been intrguied by how the internet and websites,apps etc work. How they are created , how they respond and get from point a to point b. So Ive taken courses and classes learning and writing code creating projects and applications for the past 2+ years. IT would be a dream to work with Open Learning Exchange. To work on real world projects that have a positive impact. To gain that knowldge and expereience. Work along side other developers. 
 
