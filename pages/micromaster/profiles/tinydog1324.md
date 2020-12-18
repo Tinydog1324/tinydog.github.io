@@ -48,4 +48,4 @@ Phone Number: 949-981-9637
 
 ---
 
-Looking forward to from hearing and working with you all. Stay safe!
+Looking forward to from hearing and working with you all. Stay safe!!
